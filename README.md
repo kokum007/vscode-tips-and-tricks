@@ -176,6 +176,8 @@ Download the keyboard shortcut reference sheet for your platform ([macOS](https:
 
 ![Keyboard Reference Sheet](/media/KeyboardReferenceSheet.png)
 
+![Keyboard Reference Sheet](/media/keyboardreferencesheetwindows.jpg)
+
 ### Keymaps
 
 Are you used to keyboard shortcuts from another editor? You can install a Keymap extension that brings the keyboard shortcuts from your favorite editor to VS Code. Go to **Preferences** > **Keymap Extensions** to see the current list on the [Marketplace](https://marketplace.visualstudio.com/search?target=VSCode&category=Keymaps&sortBy=Downloads). Some of the more popular ones:
